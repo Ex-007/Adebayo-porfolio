@@ -192,7 +192,7 @@
             <h2 class="contact__title">Ready to build something remarkable?</h2>
             <p class="contact__sub">Let's discuss your project and explore how strategic design can drive your business forward.</p>
             <div class="contact__details">
-              <a href="mailto:rukayat@adebayo.design" class="contact__link">rukayat@adebayo.design</a>
+              <a href="mailto:adebayorukayatblessing@gmail.com" class="contact__link">adebayorukayatblessing@gmail.com</a>
               <p class="contact__location">Lagos, Nigeria · Available Globally</p>
             </div>
           </div>
