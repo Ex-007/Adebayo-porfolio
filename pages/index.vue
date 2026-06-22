@@ -188,7 +188,7 @@
       <div class="section__inner">
         <div class="contact__wrap">
           <div class="contact__content">
-            <span class="section__eyebrow">Get In Touch</span>
+            <span class="section__eyebrow">Get In Touch.</span>
             <h2 class="contact__title">Ready to build something remarkable?</h2>
             <p class="contact__sub">Let's discuss your project and explore how strategic design can drive your business forward.</p>
             <div class="contact__details">
